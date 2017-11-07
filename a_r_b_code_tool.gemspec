@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Various specific methods for applications.}
   spec.description   = %q{Provides generated codes for Rails applications.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/ArbieDev/a_r_b_code_tool"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
     f.match(%r{^(test|spec|features)/})
