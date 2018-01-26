@@ -20,6 +20,8 @@ Or install it yourself as:
 
 ## Usage
 
+Create copyright labels with the following line.
+
 ```
 ARBCodeTool::Renderer.copyright 'Your name', 'All rights reserved'
 ```
@@ -32,4 +34,4 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/a_r_b_code_tool.
+Bug reports and pull requests are welcome on GitHub at https://github.com/ArbieDev/a_r_b_code_tool.
